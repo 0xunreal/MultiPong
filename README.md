@@ -1,6 +1,6 @@
 # MultiPong
 
-![alt text](./imgs/game.png)
+![alt text](https://github.com/0xunreal/MultiPong/blob/main/imgs/game.PNG)
  
 # WebSocket-Based Multiplayer and State Synchronization
 
@@ -88,7 +88,7 @@ Badges are awarded when certain conditions are met. They can be triggered by rea
 
 # How to Build & Run
 
-![alt text](./imgs/buildmenu.png)
+![alt text](https://github.com/0xunreal/MultiPong/blob/main/imgs/buildmenu.PNG)
 
 - Server logs are saved to ./Logs folder
 
