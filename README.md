@@ -86,9 +86,15 @@ Badges are awarded when certain conditions are met. They can be triggered by rea
 - The server periodically creates `PlayerStatisticsMessage` objects with updated stats and badges.
 - Clients receive these messages and update their UI or local records accordingly.
 
-
 # How to Build & Run
 
 ![alt text](./imgs/buildmenu.png)
 
 - Server logs are saved to ./Logs folder
+
+## Requirements
+
+- Unity (6000.0.29f1)
+- Windows Dedicated Server Build Support module
+
+- Tested on Windows 10 and Windows 11
